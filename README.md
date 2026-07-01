@@ -11,3 +11,9 @@ Growth rates (CAGR) — used compound annual growth rather than a simple percent
 Growth vs. wage level (scatter) — shows an inverse relationship: higher current wages, slower percentage growth. Mostly arithmetic (same euro increase = bigger % on a smaller base), not necessarily catching up.
 Baltic states — Latvia, Estonia, and Lithuania started from nearly the same wage in 1999, but had already diverged noticeably by 2018-2019, well before COVID.
 Ukraine vs. Moldova — two post-Soviet, non-EU countries with a comparable regional and economic backdrop, though their wage levels were never identical. Their post-2022 trajectories diverge sharply: Moldova accelerates while Ukraine's euro-denominated wage plateaus.
+
+![Top 10 vs Bottom 10](img/top10_bottom10.png)
+
+![Top 10 vs Bottom 10](img/scatter_plot.png)
+
+![Top 10 vs Bottom 10](baltic_states_linechart.png)

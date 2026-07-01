@@ -16,4 +16,6 @@ Ukraine vs. Moldova — two post-Soviet, non-EU countries with a comparable regi
 
 ![scatter_plot](img/scatter_plot.png)
 
-![Top 10 vs Bottom 10](img/baltic_states_linechart.png)
+![baltic_states](img/baltic_states_linechart.png)
+
+![ukraine_vs_moldova](img/ukraine_vs_moldova.png)
